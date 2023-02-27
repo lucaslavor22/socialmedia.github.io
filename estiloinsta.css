@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 40px;
+    height: 40px;
+     margin: 2px;
+}
+
+#tudo {
+    
+    position: relative;
+    display: flex;
+    width: 80%;
+    height: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    display: block;
+    text-align: center;
+    left: 10%;
+    top: 2%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    font-weight: 400px;
+    font-family: 'Poppins';
+}
+
+
+button {
+    width: 80px;
+    height: 90px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#um {
+ 
+    width: 400px;
+    height: 60px;
+    border: 1px solid  rgba(0, 0, 0, 0.823);
+    padding-top: 10px;
+    align-items: center;
+    margin-left: 400px;
+    border-radius: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: larger;
+    padding-bottom: 40px;
+    padding-top: 0;
+}
+
+.principal {
+    background-color: rgb(246, 66, 0);
+    border-color: black;
+    height:90px;
+}
+
+#foto {
+    width: 200px;
+    border-radius: 100px;
+    height: 200px;
+}
+
+#midias {
+     padding-top: 20px;
+}
